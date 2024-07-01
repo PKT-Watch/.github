@@ -1,11 +1,15 @@
 <p align="center">
   <a href="https://pkt.watch">
-    <img src="https://packetscan.io/img/pkt-watch-logo.svg" alt="Pkt Watch logo" height="60">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://pkt.watch/img/github/pkt-watch-logo.svg">
+      <img alt="PKT Watch" src="https://pkt.watch/img/github/pkt-watch-logo-alt.svg" height="60">
+    </picture>
   </a>
 </p>
 
+
 <p align="center">
-A collection of free tools and resources for the PKT Cash community
+  A collection of free tools and resources for the PKT Cash community
 </p>
 <p></p>
 <p>
